@@ -1,4 +1,4 @@
-# sugar-toolkit-gtk3.
+# sugar-toolkit-gtk3
 Sugar Toolkit GTK3 provides GTK3-based UI components and helpers used by Sugar activities and the Sugar desktop environment.
 
 ## Overview
